@@ -1,0 +1,12 @@
+0.7
+2020.2
+Oct 19 2021
+03:16:22
+O:/ENGS31_S23/VGA/VGA.gen/sources_1/ip/bitmaps/sim/bitmaps.v,1685568953,verilog,,,,bitmaps,,,,,,,,
+O:/ENGS31_S23/VGA/VGA.sim/sim_1/behav/xsim/glbl.v,1634335545,verilog,,,,glbl,,,,,,,,
+O:/ENGS31_S23/VGA/VGA.srcs/sim_1/new/GameShell_tb.vhd,1685574605,vhdl,,,,gameshell_tb,,,,,,,,
+O:/ENGS31_S23/VGA/VGA.srcs/sources_1/new/Game_Shell.vhd,1685574721,vhdl,,,,game_shell,,,,,,,,
+O:/ENGS31_S23/VGA/VGA.srcs/sources_1/new/VGA_shell.vhd,1685569239,vhdl,,,,vga_shell,,,,,,,,
+O:/ENGS31_S23/VGA/VGA.srcs/sources_1/new/design.vhd,1684809173,vhdl,,,,vga,,,,,,,,
+O:/ENGS31_S23/VGA/VGA.srcs/sources_1/new/letter_disp.vhd,1685565250,vhdl,,,,letter_disp,,,,,,,,
+O:/ENGS31_S23/VGA/pclock_generation.vhd,1684782287,vhdl,,,,system_clock_generation,,,,,,,,

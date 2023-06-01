@@ -1,0 +1,11 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../VGA.srcs/sources_1/new/Game_Shell.vhd" \
+"../../../../VGA.srcs/sources_1/new/VGA_shell.vhd" \
+"../../../../VGA.srcs/sources_1/new/design.vhd" \
+"../../../../VGA.srcs/sources_1/new/letter_disp.vhd" \
+"../../../../pclock_generation.vhd" \
+"../../../../VGA.srcs/sim_1/new/GameShell_tb.vhd" \
+
+# Do not sort compile order
+nosort
